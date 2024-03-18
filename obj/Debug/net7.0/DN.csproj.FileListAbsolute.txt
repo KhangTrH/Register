@@ -1,0 +1,15 @@
+/Users/truongkhang/Projects/DN/bin/Debug/net7.0/DN
+/Users/truongkhang/Projects/DN/bin/Debug/net7.0/DN.deps.json
+/Users/truongkhang/Projects/DN/bin/Debug/net7.0/DN.runtimeconfig.json
+/Users/truongkhang/Projects/DN/bin/Debug/net7.0/DN.dll
+/Users/truongkhang/Projects/DN/bin/Debug/net7.0/DN.pdb
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.csproj.AssemblyReference.cache
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.AssemblyInfoInputs.cache
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.AssemblyInfo.cs
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.csproj.CoreCompileInputs.cache
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.dll
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/refint/DN.dll
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.pdb
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/DN.genruntimeconfig.cache
+/Users/truongkhang/Projects/DN/obj/Debug/net7.0/ref/DN.dll
